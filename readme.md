@@ -62,5 +62,4 @@ a. create a razorpay account from here
  3. After that type “npm run dev” in terminal
  4. Nowyou will see the ‘http://localhost:5174’ link in that terminal. Open
  that link in the browser.
- If you still face any issue then can contact us on https://instagram.com/greatstackdev
- Find More Projects: https://greatstack.dev/source-code
+ 
