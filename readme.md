@@ -52,6 +52,8 @@ A full-fledged **E-Commerce Web App** built using **MERN Stack** with seamless p
 git clone https://github.com/neerajkumarsi20/E-Commerce-Full-Stack.git
 cd E-Commerce-Full-Stack
 
+---
+
 ### Setup Frontend
 
 cd frontend
@@ -95,4 +97,5 @@ VITE_RAZORPAY_KEY_ID = '-------- Paste Razorpay key Id --------'
 ### 📃 License
 
 This project is licensed under the MIT License.
+
 
