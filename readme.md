@@ -48,29 +48,29 @@ A full-fledged **E-Commerce Web App** built using **MERN Stack** with seamless p
 ---
 
 ### 📦 Clone the repo
-
+```bash
 git clone https://github.com/neerajkumarsi20/E-Commerce-Full-Stack.git
 cd E-Commerce-Full-Stack
-
+```
 ---
 
 ## Setup Frontend
-
+```bash
 cd frontend
 npm install
 npm start
-
+```
 ### Setup Backend
-
+```bash
 cd frontend
 npm install
 npm run server
-
+```
 ### 🌐 Visit
-
+```bash
 Frontend: http://localhost:3000
 Backend: http://localhost:5000
-
+```
 ## 🛡️ Environment Variables
 
 ### Backend
